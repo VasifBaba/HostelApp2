@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\HostelApp2.exe.config
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\HostelApp2.exe
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\HostelApp2.pdb
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.Form1.resources
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.Properties.Resources.resources
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.exe
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.pdb
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.AdminDashboard.resources
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\EntityFramework.dll
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\EntityFramework.xml
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.csproj.CopyComplete
+C:\Users\User\Source\Repos\HostelApp2\HostelApp2\obj\Debug\HostelApp2.Workers.resources
